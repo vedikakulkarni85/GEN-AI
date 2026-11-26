@@ -1,0 +1,13 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+he future of artificial intelligence,1.0,1,13,'.',-92.5856,-92.5856,26.32
+he future of artificial intelligence,1.0,2,11,"','",-93.3378,-93.3378,12.4
+he future of artificial intelligence,1.0,3,290,' and',-93.64,-93.64,9.17
+he future of artificial intelligence,1.0,4,318,' is',-94.0658,-94.0658,5.99
+he future of artificial intelligence,1.0,5,481,' will',-94.763,-94.763,2.98
+he future of artificial intelligence,1.0,6,287,' in',-94.8156,-94.8156,2.83
+Prompt: The future of artificial intelligence,1.0,1,318,' is',-102.6435,-102.6435,18.08
+Prompt: The future of artificial intelligence,1.0,2,13,'.',-103.436,-103.436,8.19
+Prompt: The future of artificial intelligence,1.0,3,198,'\n',-103.5745,-103.5745,7.13
+Prompt: The future of artificial intelligence,1.0,4,11,"','",-103.9985,-103.9985,4.66
+Prompt: The future of artificial intelligence,1.0,5,287,' in',-104.1736,-104.1736,3.91
+Prompt: The future of artificial intelligence,1.0,6,290,' and',-104.1956,-104.1956,3.83
